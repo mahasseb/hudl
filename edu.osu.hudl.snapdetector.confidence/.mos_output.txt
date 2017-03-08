@@ -1,0 +1,1 @@
+Video Name : Game02_video0005 ;Moment of Snap:100 ;Confidence: 0.46569; Score1: 0.531381; Score2: 0.6; Score3: 0.4

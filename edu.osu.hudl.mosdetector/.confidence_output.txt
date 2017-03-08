@@ -1,0 +1,1 @@
+Video Name : Game15_video0032 ;Moment of Snap:800 ;Confidence: 0.226582; Score1: 0.506329; Score2: 0.4; Score3: 0.4; New Confidence: -1

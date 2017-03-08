@@ -1,0 +1,5 @@
+Video Name : Game15_video0001 ;Moment of Snap:270 ;Confidence: 0.806897; Score1: 0.813793; Score2: 0.6; Score3: 0.8; New Confidence: -1
+Video Name : Game15_video0022 ;Moment of Snap:160 ;Confidence: 1; Score1: 1; Score2: 0.8; Score3: 1; New Confidence: 1
+Video Name : Game15_video0023 ;Moment of Snap:600 ;Confidence: 0.282622; Score1: 0.530488; Score2: 0.6; Score3: 0.6; New Confidence: -1
+Video Name : Game15_video0031 ;Moment of Snap:510 ;Confidence: 0.743374; Score1: 0.686747; Score2: 0.2; Score3: 0.8; New Confidence: -1
+Video Name : Game15_video0032 ;Moment of Snap:800 ;Confidence: 0.226582; Score1: 0.506329; Score2: 0.4; Score3: 0.4; New Confidence: -1
